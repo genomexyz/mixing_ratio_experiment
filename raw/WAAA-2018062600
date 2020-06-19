@@ -1,0 +1,111 @@
+2018-06-26 00
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<LINK REL="StyleSheet" HREF="/resources/select.css" TYPE="text/css">
+<BODY BGCOLOR="white">
+<H2>97180 WAAA Ujung Pandang Observations at 00Z 26 Jun 2018</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1010.0     14   24.6   23.3     92  18.21      0      0  296.9  349.7  300.1
+ 1006.0     47   23.6   21.4     87  16.23     64      2  296.2  343.2  299.1
+ 1000.0     97   24.2   21.3     84  16.23    160      4  297.4  344.5  300.2
+  977.0    302   24.0   19.2     75  14.60    135      6  299.1  341.9  301.7
+  961.0    447   23.8   17.8     69  13.53    124     11  300.3  340.2  302.8
+  925.0    781   21.6   14.6     64  11.42    100     23  301.4  335.3  303.5
+  912.0    902   20.7   14.4     67  11.42    100     25  301.7  335.7  303.8
+  867.0   1337   17.6   13.6     77  11.41     93     21  302.9  336.9  304.9
+  850.0   1505   16.8   13.3     80  11.42     90     19  303.7  337.9  305.8
+  819.0   1822   16.2   12.2     77  11.02     88     18  306.3  339.8  308.4
+  780.0   2235   13.0    9.7     80   9.78     85     17  307.2  337.0  309.0
+  746.0   2610   13.0    6.0     62   7.92     83     15  311.1  335.9  312.6
+  712.0   3000   10.1    3.8     65   7.11     80     14  312.1  334.4  313.4
+  700.0   3142    9.0    3.0     66   6.83     75     15  312.4  334.0  313.7
+  687.0   3297    8.5    2.9     68   6.92     70     16  313.5  335.4  314.8
+  670.0   3504    7.8    2.8     71   7.04     77     16  315.0  337.4  316.4
+  638.0   3902    4.8    1.4     79   6.66     90     17  316.0  337.3  317.3
+  591.0   4524    0.0   -0.9     94   6.10     94     19  317.4  337.1  318.6
+  530.0   5391   -4.1   -6.7     82   4.39    100     21  322.6  337.3  323.4
+  510.0   5694   -4.1   -9.1     68   3.79    110     18  326.1  339.1  326.9
+  500.0   5850   -4.9  -10.9     63   3.35    115     16  327.0  338.6  327.7
+  472.0   6299   -8.9  -12.6     74   3.09    105     13  327.5  338.2  328.1
+  444.0   6775  -13.1  -14.4     90   2.84     93     13  327.9  337.9  328.5
+  437.0   6896  -14.0  -14.9     93   2.77     90     13  328.3  338.0  328.9
+  428.0   7055  -15.1  -15.5     97   2.69     78     13  328.9  338.3  329.4
+  424.0   7126  -15.3  -16.2     93   2.56     73     13  329.5  338.5  330.0
+  419.0   7217  -14.3  -18.2     72   2.19     67     12  331.9  339.7  332.3
+  413.0   7327  -13.9  -18.8     66   2.11     59     12  333.8  341.4  334.2
+  403.0   7513  -15.7  -19.4     73   2.05     45     12  333.7  341.2  334.1
+  400.0   7570  -16.3  -19.6     76   2.03     50     11  333.7  341.1  334.1
+  388.0   7798  -18.3  -20.2     85   1.99     50     12  334.0  341.2  334.4
+  358.0   8391  -21.3  -27.6     57   1.12     20     14  337.7  342.0  338.0
+  330.0   8990  -24.4  -35.0     37   0.59     25     10  341.5  343.9  341.6
+  322.0   9171  -25.3  -37.3     32   0.48    360      7  342.6  344.6  342.7
+  316.0   9306  -26.4  -38.6     31   0.43    340      5  343.0  344.7  343.1
+  303.0   9608  -28.7  -41.6     28   0.33    270      8  343.8  345.1  343.9
+  300.0   9680  -29.3  -42.3     27   0.31    270      9  344.0  345.3  344.0
+  291.0   9896  -31.2  -43.0     30   0.30    255     13  344.3  345.5  344.3
+  285.0  10044  -32.5  -43.5     33   0.29                344.5  345.7  344.5
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WAAA
+                             Station number: 97180
+                           Observation time: 180626/0000
+                           Station latitude: -5.06
+                          Station longitude: 119.55
+                          Station elevation: 14.0
+                            Showalter index: 2.85
+                               Lifted index: 1.07
+    LIFT computed using virtual temperature: 0.82
+                                SWEAT index: 213.60
+                                    K index: 29.00
+                         Cross totals index: 18.20
+                      Vertical totals index: 21.70
+                        Totals totals index: 39.90
+      Convective Available Potential Energy: 86.22
+             CAPE using virtual temperature: 103.23
+                      Convective Inhibition: -167.99
+             CINS using virtual temperature: -119.88
+                           Equilibrum Level: 419.51
+ Equilibrum Level using virtual temperature: 419.13
+                   Level of Free Convection: 630.94
+             LFCT using virtual temperature: 639.47
+                     Bulk Richardson Number: 4.37
+          Bulk Richardson Number using CAPV: 5.23
+  Temp [K] of the Lifted Condensation Level: 291.82
+Pres [hPa] of the Lifted Condensation Level: 922.16
+     Mean mixed layer potential temperature: 298.67
+              Mean mixed layer mixing ratio: 14.97
+              1000 hPa to 500 hPa thickness: 5753.00
+Precipitable water [mm] for entire sounding: 50.99
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

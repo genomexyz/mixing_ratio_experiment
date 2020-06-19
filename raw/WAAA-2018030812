@@ -1,0 +1,83 @@
+2018-03-08 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<LINK REL="StyleSheet" HREF="/resources/select.css" TYPE="text/css">
+<BODY BGCOLOR="white">
+<H2>97180 WAAA Ujung Pandang Observations at 00Z 08 Mar 2018</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1008.0     14   24.4   23.8     96  18.82      0      0  296.9  351.5  300.2
+ 1007.0     22   23.8   23.3     97  18.26    344      0  296.4  349.2  299.6
+ 1000.0     82   24.8   23.5     92  18.63    235      3  297.9  352.2  301.3
+  975.0    304   24.6   23.4     93  19.01    260      9  299.9  355.8  303.3
+  973.0    322   24.6   23.4     93  19.04    260      9  300.1  356.1  303.5
+  925.0    763   21.4   21.2     99  17.47    260     14  301.2  352.8  304.3
+  914.0    867   20.8   20.6     99  17.02    260     16  301.6  352.0  304.7
+  910.0    905   20.0   19.6     98  16.05    260     16  301.2  348.5  304.1
+  853.0   1461   16.8   16.6     99  14.13    260     25  303.4  345.6  306.0
+  850.0   1491   16.6   16.3     98  13.91    260     25  303.5  345.0  306.1
+  820.0   1797   15.5   15.2     98  13.45    250     20  305.5  345.9  307.9
+  729.0   2799   11.8   11.7     99  11.99    287     12  311.9  349.0  314.1
+  700.0   3141   10.2   10.2    100  11.29    300      9  313.8  349.0  315.9
+  686.0   3309    9.6    9.6    100  11.06    310      9  314.9  349.6  317.0
+  659.0   3643    8.4    8.4    100  10.61    329     10  317.2  350.8  319.2
+  616.0   4198    5.7    5.7    100   9.42      0     13  320.3  350.6  322.1
+  587.0   4595    3.8    3.8    100   8.64    324     16  322.5  350.6  324.2
+  572.0   4805    2.7    2.7    100   8.21    305     17  323.6  350.5  325.2
+  565.0   4905    2.2    2.2    100   8.01    308     17  324.1  350.4  325.7
+  553.0   5078    0.0    0.0    100   6.97    314     17  323.5  346.5  324.9
+  551.0   5107   -0.5   -0.5    100   6.74    315     17  323.3  345.5  324.6
+  547.0   5165   -1.5   -1.5    100   6.31                322.8  343.5  324.0
+  538.0   5298   -1.7   -1.7    100   6.32                324.1  345.0  325.3
+  534.0   5357   -2.7   -2.7    100   5.91                323.5  343.1  324.7
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WAAA
+                             Station number: 97180
+                           Observation time: 180308/0000
+                           Station latitude: -5.06
+                          Station longitude: 119.55
+                          Station elevation: 14.0
+      Convective Available Potential Energy: 227.63
+             CAPE using virtual temperature: 260.65
+                      Convective Inhibition: -2.32
+             CINS using virtual temperature: -2.09
+                   Level of Free Convection: 929.48
+             LFCT using virtual temperature: 931.25
+  Temp [K] of the Lifted Condensation Level: 296.13
+Pres [hPa] of the Lifted Condensation Level: 964.33
+     Mean mixed layer potential temperature: 299.24
+              Mean mixed layer mixing ratio: 18.72
+Precipitable water [mm] for entire sounding: 62.52
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

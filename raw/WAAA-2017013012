@@ -1,0 +1,112 @@
+2017-01-30 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<LINK REL="StyleSheet" HREF="/resources/select.css" TYPE="text/css">
+<BODY BGCOLOR="white">
+<H2>97180 WAAA Ujung Pandang Observations at 00Z 30 Jan 2017</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1011.0     14   23.8   23.0     95  17.85    345      6  296.0  347.6  299.2
+ 1000.0    106   23.0   22.7     98  17.72    305     24  296.1  347.4  299.3
+  978.0    299   22.2   21.9     98  17.27    280     33  297.2  347.4  300.3
+  925.0    783   20.2   20.0     99  16.19    250     36  300.0  347.5  302.9
+  912.0    905   19.5   19.3     99  15.72    250     38  300.5  346.8  303.3
+  850.0   1513   16.2   15.9     98  13.55    255     39  303.1  343.5  305.6
+  846.0   1553   15.8   15.6     99  13.35    255     39  303.1  342.9  305.5
+  745.0   2627   12.0   11.9     99  11.89    259     30  310.2  346.7  312.4
+  713.0   2994   10.4   10.4    100  11.25    260     27  312.4  347.3  314.5
+  700.0   3148    9.8    9.8    100  10.98    265     27  313.3  347.6  315.4
+  663.0   3593    7.4    7.4    100   9.86    270     17  315.5  346.7  317.4
+  639.0   3894    5.8    5.8    100   9.15    260     17  317.1  346.2  318.8
+  572.0   4801    1.0    1.0    100   7.25    280      8  321.6  345.2  323.0
+  559.0   4989    0.0    0.0    100   6.89    271      9  322.5  345.1  323.9
+  551.0   5105   -0.2   -0.2    100   6.87    265      9  323.6  346.2  324.9
+  537.0   5312   -0.7   -0.7    100   6.82    223     10  325.4  348.0  326.8
+  531.0   5401   -1.2   -1.2    100   6.64    205     10  325.9  348.0  327.2
+  511.0   5707   -2.9   -2.9    100   6.08    195      8  327.4  347.8  328.6
+  500.0   5880   -3.9   -3.9    100   5.77    195      9  328.2  347.7  329.4
+  474.0   6298   -6.1   -6.1    100   5.14    245      6  330.5  348.1  331.5
+  456.0   6600   -7.7   -7.7    100   4.71    300      5  332.2  348.5  333.1
+  439.0   6898   -9.3   -9.3    100   4.33    330      4  333.8  348.9  334.7
+  435.0   6969   -9.7   -9.7    100   4.24      0      4  334.2  349.0  335.0
+  422.0   7202  -12.3  -12.4     99   3.52    100      4  333.8  346.2  334.5
+  420.0   7239  -12.7  -12.8     99   3.42    100      4  333.7  345.8  334.4
+  400.0   7610  -14.9  -15.0     99   3.00    105      4  335.5  346.3  336.1
+  370.0   8195  -18.3  -18.4     99   2.44    137      6  338.6  347.5  339.1
+  346.0   8682  -22.1  -22.3     98   1.86    165      7  340.0  347.0  340.4
+  332.0   8983  -24.4  -24.6     98   1.57    155      8  340.9  346.8  341.2
+  305.0   9600  -29.2  -29.6     97   1.09    105     17  342.5  346.8  342.8
+  300.0   9720  -30.1  -30.5     96   1.01    105     20  342.8  346.8  343.1
+  269.0  10486  -35.7  -36.4     94   0.64    100     28  345.5  348.1  345.6
+  250.0  11000  -39.5  -40.3     92   0.46    120     26  347.2  349.1  347.3
+  248.0  11055  -39.9  -40.5     94   0.45    121     25  347.4  349.3  347.5
+  225.0  11700  -45.8                         130     19  348.2         348.2
+  200.0  12480  -52.9                         135     24  348.8         348.8
+  150.0  14270  -69.1                         105     34  350.9         350.9
+  147.0  14386  -70.0                         100     32  351.3         351.3
+  107.0  16203  -84.2                          85     59  357.9         357.9
+  102.0  16476  -86.3                                     358.7         358.7
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WAAA
+                             Station number: 97180
+                           Observation time: 170130/0000
+                           Station latitude: -5.06
+                          Station longitude: 119.55
+                          Station elevation: 14.0
+                            Showalter index: 1.60
+                               Lifted index: 0.12
+    LIFT computed using virtual temperature: 0.12
+                                SWEAT index: 277.80
+                                    K index: 36.00
+                         Cross totals index: 19.80
+                      Vertical totals index: 20.10
+                        Totals totals index: 39.90
+      Convective Available Potential Energy: 88.06
+             CAPE using virtual temperature: 98.83
+                      Convective Inhibition: -1.93
+             CINS using virtual temperature: -1.78
+                           Equilibrum Level: 288.21
+ Equilibrum Level using virtual temperature: 289.00
+                   Level of Free Convection: 911.24
+             LFCT using virtual temperature: 913.57
+                     Bulk Richardson Number: 5.43
+          Bulk Richardson Number using CAPV: 6.09
+  Temp [K] of the Lifted Condensation Level: 295.15
+Pres [hPa] of the Lifted Condensation Level: 977.87
+     Mean mixed layer potential temperature: 297.06
+              Mean mixed layer mixing ratio: 17.36
+              1000 hPa to 500 hPa thickness: 5774.00
+Precipitable water [mm] for entire sounding: 68.79
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

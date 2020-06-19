@@ -1,0 +1,98 @@
+2016-06-25 00
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<LINK REL="StyleSheet" HREF="/resources/select.css" TYPE="text/css">
+<BODY BGCOLOR="white">
+<H2>97180 WAAA Ujung Pandang Observations at 00Z 25 Jun 2016</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1011.0     14   24.8   24.0     95  19.00      0      0  297.0  352.2  300.4
+ 1000.0    107   24.8   21.3     81  16.23    110      5  297.9  345.2  300.8
+  993.0    169   26.0   21.7     77  16.76    115      5  299.8  349.0  302.8
+  978.0    302   25.3   20.9     77  16.21    125      5  300.4  348.1  303.3
+  946.0    593   23.8   19.2     75  15.04    119      9  301.7  346.2  304.4
+  930.0    741   24.2   17.2     65  13.45    116     11  303.6  343.8  306.0
+  925.0    788   24.0   17.0     65  13.35    115     12  303.8  343.8  306.3
+  850.0   1525   18.0   14.7     81  12.52    110     15  305.0  342.7  307.3
+  846.0   1566   17.6   14.6     83  12.50    111     15  305.0  342.6  307.3
+  823.0   1799   16.1   13.7     85  12.11    115     14  305.9  342.4  308.1
+  795.0   2093   14.3   12.6     89  11.64    120     13  306.9  342.3  309.1
+  744.0   2655   10.8   10.4     97  10.76    105     15  309.0  342.0  311.0
+  714.0   2999    9.3    9.0     98  10.18     95     16  311.0  342.5  312.9
+  700.0   3164    8.6    8.3     98   9.91     90     16  312.0  342.8  313.8
+  667.0   3563    6.4    3.2     80   7.27     93     15  313.8  336.9  315.2
+  640.0   3898    4.8    1.9     82   6.92     95     15  315.7  337.8  317.0
+  595.0   4491    1.9   -0.3     85   6.33    125     13  319.0  339.6  320.2
+  567.0   4882    0.0   -1.8     88   5.95    117     12  321.2  340.8  322.4
+  531.0   5403   -3.1   -4.5     90   5.18    105     10  323.6  340.9  324.6
+  512.0   5692   -4.8   -6.0     91   4.79    130     10  324.9  341.0  325.9
+  500.0   5880   -5.9   -7.0     92   4.55    120     10  325.8  341.2  326.7
+  474.0   6295   -8.5   -9.4     93   3.98    130     11  327.5  341.1  328.3
+  434.0   6979  -12.9  -13.4     96   3.15     88     13  330.3  341.4  331.0
+  422.0   7193  -13.8  -17.2     75   2.36     75     13  331.9  340.3  332.3
+  418.0   7266  -14.1  -18.5     69   2.14     76     13  332.4  340.1  332.8
+  400.0   7600  -16.3  -19.3     78   2.09     80     15  333.7  341.3  334.1
+  390.0   7790  -17.2  -20.6     75   1.92     80     17  334.9  341.9  335.3
+  375.0   8084  -18.7  -22.5     72   1.69                336.8  343.0  337.1
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WAAA
+                             Station number: 97180
+                           Observation time: 160625/0000
+                           Station latitude: -5.06
+                          Station longitude: 119.55
+                          Station elevation: 14.0
+                            Showalter index: -0.08
+                               Lifted index: -2.05
+    LIFT computed using virtual temperature: -2.26
+                                SWEAT index: 216.40
+                                    K index: 38.30
+                         Cross totals index: 20.60
+                      Vertical totals index: 23.90
+                        Totals totals index: 44.50
+      Convective Available Potential Energy: 376.29
+             CAPE using virtual temperature: 433.07
+                      Convective Inhibition: -88.27
+             CINS using virtual temperature: -70.99
+                   Level of Free Convection: 811.35
+             LFCT using virtual temperature: 828.28
+                     Bulk Richardson Number: 54.74
+          Bulk Richardson Number using CAPV: 63.00
+  Temp [K] of the Lifted Condensation Level: 293.39
+Pres [hPa] of the Lifted Condensation Level: 927.97
+     Mean mixed layer potential temperature: 299.74
+              Mean mixed layer mixing ratio: 16.41
+              1000 hPa to 500 hPa thickness: 5773.00
+Precipitable water [mm] for entire sounding: 58.03
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

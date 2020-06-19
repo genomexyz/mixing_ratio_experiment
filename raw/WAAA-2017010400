@@ -1,0 +1,113 @@
+2017-01-04 00
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<LINK REL="StyleSheet" HREF="/resources/select.css" TYPE="text/css">
+<BODY BGCOLOR="white">
+<H2>97180 WAAA Ujung Pandang Observations at 00Z 04 Jan 2017</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1007.0     14   24.6   23.6     94  18.61      0      0  297.2  351.2  300.5
+ 1006.0     23   24.4   23.1     92  18.06     16      0  297.0  349.4  300.2
+ 1000.0     78   25.0   23.2     90  18.28    110      3  298.1  351.5  301.4
+  976.0    292   24.8   22.3     86  17.72    331      4  300.0  352.1  303.2
+  975.0    301   24.7   22.3     86  17.70    325      4  300.1  352.1  303.2
+  925.0    762   21.6   20.8     95  17.03    300     13  301.4  351.7  304.5
+  879.0   1203   19.1   18.0     94  15.03    285     19  303.2  348.0  305.9
+  850.0   1493   17.4   16.2     93  13.82    290     21  304.4  345.8  306.9
+  767.0   2367   12.6   11.8     95  11.46    272     17  308.2  343.2  310.4
+  737.0   2701   10.5   10.0     97  10.59    265     16  309.4  342.0  311.4
+  704.0   3084    8.0    8.0    100   9.65    252     19  310.8  340.7  312.6
+  700.0   3131    7.0    5.7     91   8.27    250     19  310.2  335.9  311.8
+  674.0   3443    7.0    3.3     77   7.25    250     18  313.6  336.5  314.9
+  661.0   3603    5.6    5.2     97   8.46    250     17  313.8  340.4  315.4
+  621.0   4114    4.4    3.3     93   7.87    254     14  318.0  343.3  319.5
+  614.0   4205    3.9    2.8     93   7.68    255     13  318.4  343.1  319.9
+  592.0   4501    2.1    1.2     93   7.10    235     13  319.8  342.8  321.1
+  566.0   4864    0.0   -0.8     94   6.42    262     12  321.4  342.4  322.6
+  550.0   5092   -1.1   -1.9     94   6.08    280     12  322.7  342.7  323.9
+  500.0   5850   -4.9   -5.7     94   5.03    265     11  327.0  344.0  328.0
+  484.0   6105   -5.7   -7.2     89   4.63    260     10  329.1  344.9  330.0
+  443.0   6791  -10.1  -10.1    100   4.03    247      7  331.9  346.0  332.8
+  437.0   6895  -10.7  -10.8     99   3.87    245      7  332.5  346.0  333.3
+  420.0   7198  -12.4  -12.8     97   3.43    260      5  334.1  346.2  334.8
+  400.0   7570  -14.5  -15.2     94   2.95    245      8  336.1  346.6  336.7
+  388.0   7799  -15.8  -16.5     94   2.72    245     11  337.2  347.1  337.8
+  372.0   8116  -17.7  -18.4     94   2.42    258     13  338.9  347.7  339.4
+  358.0   8397  -19.7  -20.4     94   2.12    270     14  339.9  347.8  340.4
+  317.0   9287  -25.9  -26.8     92   1.35    285     11  343.3  348.5  343.6
+  304.0   9593  -28.0  -29.0     91   1.15    295     11  344.5  348.9  344.7
+  300.0   9690  -28.7  -29.7     91   1.09    290     12  344.8  349.1  345.0
+  293.0   9859  -30.5  -31.2     94   0.97    281     11  344.6  348.4  344.8
+  292.0   9883  -30.7  -31.4     93   0.95    280     11  344.7  348.4  344.9
+  277.0  10257  -33.5  -34.7     89   0.73    292      9  345.8  348.8  346.0
+  268.0  10488  -35.4  -37.5     82   0.57    300      7  346.3  348.6  346.4
+  264.0  10593  -36.3  -38.7     78   0.51    325      8  346.5  348.6  346.6
+  257.0  10780  -37.7  -42.0     64   0.37      9      9  347.1  348.7  347.2
+  256.0  10806  -37.9  -42.2     64   0.37     15      9  347.2  348.8  347.3
+  250.0  10970  -39.1  -43.6     62   0.32     40     12  347.8  349.2  347.9
+  246.0  11080  -40.1  -44.4     63   0.30     48     13  347.9  349.2  348.0
+  245.0  11108  -40.3                          50     13  348.0         348.0
+  235.0  11390  -42.4                          45     14  349.0         349.0
+  229.0  11565  -43.7                                     349.6         349.6
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WAAA
+                             Station number: 97180
+                           Observation time: 170104/0000
+                           Station latitude: -5.06
+                          Station longitude: 119.55
+                          Station elevation: 14.0
+                            Showalter index: -0.28
+                               Lifted index: -2.43
+    LIFT computed using virtual temperature: -2.66
+                                SWEAT index: 247.39
+                                    K index: 37.20
+                         Cross totals index: 21.10
+                      Vertical totals index: 22.30
+                        Totals totals index: 43.40
+      Convective Available Potential Energy: 712.02
+             CAPE using virtual temperature: 788.05
+                      Convective Inhibition: -11.14
+             CINS using virtual temperature: -9.62
+                   Level of Free Convection: 887.96
+             LFCT using virtual temperature: 896.70
+                     Bulk Richardson Number: 36.71
+          Bulk Richardson Number using CAPV: 40.63
+  Temp [K] of the Lifted Condensation Level: 295.11
+Pres [hPa] of the Lifted Condensation Level: 950.37
+     Mean mixed layer potential temperature: 299.45
+              Mean mixed layer mixing ratio: 17.83
+              1000 hPa to 500 hPa thickness: 5772.00
+Precipitable water [mm] for entire sounding: 65.17
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

@@ -1,0 +1,111 @@
+2017-06-20 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<LINK REL="StyleSheet" HREF="/resources/select.css" TYPE="text/css">
+<BODY BGCOLOR="white">
+<H2>97180 WAAA Ujung Pandang Observations at 00Z 20 Jun 2017</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1010.0     14   24.2   23.4     95  18.32      0      0  296.5  349.6  299.8
+ 1000.0     98   23.6   22.2     92  17.17    115      4  296.8  346.5  299.8
+  977.0    301   23.3   21.3     89  16.67    110      2  298.4  347.0  301.4
+  960.0    454   23.0   20.7     87  16.29    112      6  299.6  347.4  302.5
+  925.0    776   20.8   18.7     88  14.90    115     15  300.6  344.5  303.2
+  912.0    899   20.0   18.3     90  14.73    115     17  301.0  344.4  303.6
+  893.0   1081   18.8   17.7     93  14.48    110     16  301.5  344.4  304.2
+  858.0   1426   18.0   16.3     90  13.78    102     14  304.2  345.4  306.7
+  851.0   1497   17.5   15.9     90  13.50    100     14  304.3  344.8  306.8
+  850.0   1507   17.4   15.8     90  13.46    100     14  304.4  344.7  306.8
+  712.0   3002    9.2    7.8     91   9.39    105      8  311.1  340.3  312.9
+  700.0   3145    8.4    7.0     91   9.06    100      9  311.8  340.0  313.5
+  650.0   3756    5.4    4.1     91   7.96     87      9  315.0  340.3  316.6
+  577.0   4722    0.0   -0.3     98   6.53     67     10  319.6  340.9  320.9
+  571.0   4805   -0.4   -0.7     98   6.40     65     10  320.1  341.0  321.3
+  510.0   5703   -4.7   -5.2     96   5.12     85      9  325.4  342.5  326.4
+  500.0   5860   -5.5   -6.0     96   4.92     60      7  326.3  342.9  327.2
+  491.0   6001   -6.2   -6.8     96   4.70     40      7  327.1  343.0  328.0
+  437.0   6902  -10.9  -12.1     91   3.48    105     16  332.2  344.4  332.9
+  420.0   7209  -12.5  -13.9     89   3.13     96     16  334.0  345.1  334.6
+  400.0   7580  -14.7  -16.0     90   2.76     85     17  335.8  345.7  336.4
+  325.0   9116  -25.3  -26.2     92   1.40     67     16  341.7  347.0  342.0
+  300.0   9690  -29.5  -30.3     93   1.03     60     15  343.7  347.7  343.9
+  291.0   9902  -31.3  -32.4     90   0.87     55     16  344.2  347.6  344.4
+  256.0  10795  -38.7  -41.0     79   0.42     50     19  346.0  347.7  346.1
+  250.0  10960  -40.1  -42.6     77   0.36     55     20  346.3  347.8  346.4
+  214.0  11991  -49.4                          60     24  347.5         347.5
+  200.0  12440  -53.5                          60     25  347.9         347.9
+  177.0  13208  -60.9                          50     26  348.2         348.2
+  170.0  13461  -63.3                          48     26  348.2         348.2
+  161.0  13791  -65.6                          45     27  349.8         349.8
+  150.0  14220  -68.5                          65     22  351.9         351.9
+  149.0  14260  -69.1                          68     21  351.5         351.5
+  132.0  14976  -71.2                         115     10  360.2         360.2
+  125.0  15298  -72.2                         180     11  364.1         364.1
+  117.0  15689  -73.3                         196     16  368.9         368.9
+  113.0  15890  -74.7                         205     18  370.0         370.0
+  102.0  16480  -78.9                         185     12  372.9         372.9
+  101.0  16537  -79.3                                     373.2         373.2
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WAAA
+                             Station number: 97180
+                           Observation time: 170620/0000
+                           Station latitude: -5.06
+                          Station longitude: 119.55
+                          Station elevation: 14.0
+                            Showalter index: -0.47
+                               Lifted index: -1.39
+    LIFT computed using virtual temperature: -1.52
+                                SWEAT index: 224.60
+                                    K index: 37.30
+                         Cross totals index: 21.30
+                      Vertical totals index: 22.90
+                        Totals totals index: 44.20
+      Convective Available Potential Energy: 241.61
+             CAPE using virtual temperature: 281.66
+                      Convective Inhibition: -25.14
+             CINS using virtual temperature: -11.86
+                           Equilibrum Level: 340.67
+ Equilibrum Level using virtual temperature: 356.80
+                   Level of Free Convection: 809.06
+             LFCT using virtual temperature: 896.54
+                     Bulk Richardson Number: 45.30
+          Bulk Richardson Number using CAPV: 52.81
+  Temp [K] of the Lifted Condensation Level: 294.31
+Pres [hPa] of the Lifted Condensation Level: 956.53
+     Mean mixed layer potential temperature: 298.08
+              Mean mixed layer mixing ratio: 16.85
+              1000 hPa to 500 hPa thickness: 5762.00
+Precipitable water [mm] for entire sounding: 62.69
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

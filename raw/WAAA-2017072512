@@ -1,0 +1,136 @@
+2017-07-25 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<LINK REL="StyleSheet" HREF="/resources/select.css" TYPE="text/css">
+<BODY BGCOLOR="white">
+<H2>97180 WAAA Ujung Pandang Observations at 00Z 25 Jul 2017</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1009.0     14   23.6   21.3     87  16.08      0      0  296.0  342.4  298.8
+ 1004.0     56   23.4   19.8     80  14.70     80      3  296.2  338.7  298.8
+ 1000.0     89   25.0   20.0     74  14.95    145      5  298.1  341.8  300.8
+  977.0    294   24.4   17.8     66  13.28    105      4  299.6  338.6  302.0
+  959.0    458   24.0   16.0     61  12.06     97      6  300.7  336.4  302.9
+  944.0    597   23.0   15.5     62  11.85     90      7  301.1  336.2  303.2
+  925.0    775   21.8   14.8     64  11.57     95      7  301.6  336.0  303.7
+  850.0   1502   17.2   12.6     74  10.90    105     10  304.1  336.9  306.1
+  841.0   1592   16.4   12.6     78  11.01     97      9  304.2  337.4  306.2
+  821.0   1796   15.9   10.8     72  10.00     80      6  305.8  336.2  307.7
+  808.0   1932   15.6    9.6     67   9.37     76      5  306.9  335.5  308.6
+  792.0   2101   16.3   -1.5     30   4.35     70      4  309.4  323.2  310.2
+  785.0   2176   16.6   -6.4     20   3.03     74      5  310.5  320.4  311.1
+  768.0   2361   15.0    4.0     48   6.68     84      7  310.7  331.7  312.0
+  723.0   2866   10.8    4.8     66   7.51    113     12  311.5  335.1  312.9
+  712.0   2993   10.5    4.5     66   7.48    120     13  312.6  336.1  314.0
+  700.0   3134   10.2    4.2     66   7.44    120     16  313.8  337.3  315.2
+  615.0   4200    5.0   -1.8     61   5.49    140     16  319.6  337.6  320.7
+  599.0   4418    4.0   -3.0     60   5.15    151     12  320.9  337.9  321.9
+  593.0   4499    3.3   -3.2     62   5.12    155     11  321.0  337.9  322.0
+  571.0   4805    0.8   -4.0     70   5.03    140      6  321.5  338.2  322.5
+  564.0   4904    0.0   -4.2     73   5.00    128      6  321.7  338.3  322.7
+  551.0   5090   -1.6   -4.8     78   4.87    105      5  322.0  338.2  322.9
+  542.0   5222   -2.7   -5.3     82   4.78     97      5  322.2  338.1  323.1
+  530.0   5399   -3.2   -6.6     77   4.42     85      6  323.7  338.5  324.6
+  516.0   5611   -3.7   -8.2     71   4.02     96      8  325.5  339.2  326.3
+  500.0   5860   -4.9  -10.9     63   3.35    110     10  327.0  338.6  327.7
+  491.0   6001   -6.1  -11.4     66   3.27    115     11  327.2  338.5  327.9
+  453.0   6629  -11.5  -13.8     83   2.92    117     14  328.1  338.3  328.7
+  421.0   7190  -12.9  -19.9     56   1.88    119     17  333.2  340.1  333.6
+  404.0   7504  -14.5  -24.7     42   1.28    120     19  335.1  339.9  335.4
+  400.0   7580  -14.9  -25.9     39   1.16    120     16  335.5  339.9  335.8
+  398.0   7618  -14.9  -26.9     35   1.07    120     15  336.0  340.1  336.2
+  373.0   8100  -18.5  -32.1     29   0.70    120      6  337.6  340.3  337.7
+  339.0   8811  -23.7  -39.7     22   0.36    147     15  339.8  341.3  339.9
+  330.0   9004  -25.4  -40.5     23   0.34    155     17  340.1  341.5  340.2
+  300.0   9690  -31.3  -43.3     30   0.28    115     12  341.1  342.3  341.2
+  272.0  10374  -37.7  -42.7     59   0.33     87     23  341.6  342.9  341.6
+  260.0  10684  -40.1  -47.1     47   0.21     74     27  342.4  343.4  342.5
+  256.0  10789  -41.0                          70     29  342.7         342.7
+  250.0  10950  -42.3                          70     33  343.0         343.0
+  214.0  11981  -50.0                          45     46  346.7         346.7
+  200.0  12430  -53.3                          40     48  348.2         348.2
+  161.0  13787  -62.5                          50     67  355.0         355.0
+  150.0  14230  -65.5                          55     57  357.1         357.1
+  132.0  14972  -71.1                          75     18  360.4         360.4
+  119.0  15574  -75.6                          45      4  362.9         362.9
+  113.0  15874  -77.8                          80      4  364.1         364.1
+  107.0  16191  -80.2                          55      7  365.4         365.4
+  102.0  16469  -82.3                          10      3  366.4         366.4
+  100.0  16580  -79.5                         280      5  373.9         373.9
+   96.0  16811  -80.0                         245     20  377.2         377.2
+   91.0  17114  -80.7                         230     26  381.7         381.7
+   88.3  17285  -81.1                         232     25  384.2         384.2
+   78.0  17998  -74.8                         240     21  411.1         411.1
+   75.7  18171  -73.3                         253     24  417.8         417.8
+   71.0  18554  -66.3                         280     31  440.5         440.5
+   70.5  18597  -65.5                         280     32  443.0         443.0
+   70.0  18640  -65.3                         280     32  444.4         444.4
+   57.8  19797  -67.9                         274     35  463.5         463.5
+   53.5  20266  -63.9                         272     37  483.1         483.1
+   50.0  20680  -64.1                         270     38  492.0         492.0
+   47.1  21044  -65.9                         265     35  496.2         496.2
+   47.0  21057  -65.7                         265     35  496.9         496.9
+   45.0  21324  -61.7                         259     26  512.9         512.9
+   41.0  21901  -61.1                         245      6  528.2         528.2
+   39.0  22211  -60.8                          90      3  536.7         536.7
+   38.7  22259  -60.7                                     538.0         538.0
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WAAA
+                             Station number: 97180
+                           Observation time: 170725/0000
+                           Station latitude: -5.06
+                          Station longitude: 119.55
+                          Station elevation: 14.0
+                            Showalter index: 3.30
+                               Lifted index: 2.49
+    LIFT computed using virtual temperature: 2.32
+                                SWEAT index: 181.21
+                                    K index: 28.70
+                         Cross totals index: 17.50
+                      Vertical totals index: 22.10
+                        Totals totals index: 39.60
+      Convective Available Potential Energy: 0.00
+             CAPE using virtual temperature: 0.00
+                      Convective Inhibition: 0.00
+             CINS using virtual temperature: 0.00
+                     Bulk Richardson Number: 0.00
+          Bulk Richardson Number using CAPV: 0.00
+  Temp [K] of the Lifted Condensation Level: 289.85
+Pres [hPa] of the Lifted Condensation Level: 895.85
+     Mean mixed layer potential temperature: 299.12
+              Mean mixed layer mixing ratio: 13.59
+              1000 hPa to 500 hPa thickness: 5771.00
+Precipitable water [mm] for entire sounding: 45.82
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

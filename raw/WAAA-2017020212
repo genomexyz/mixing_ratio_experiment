@@ -1,0 +1,91 @@
+2017-02-02 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<LINK REL="StyleSheet" HREF="/resources/select.css" TYPE="text/css">
+<BODY BGCOLOR="white">
+<H2>97180 WAAA Ujung Pandang Observations at 00Z 02 Feb 2017</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1010.0     14   22.2   21.6     96  16.37      0      0  294.5  341.5  297.4
+ 1000.0     97   23.2   22.4     95  17.39    200      5  296.4  346.6  299.4
+  999.0    106   23.2   22.3     95  17.30    202      6  296.4  346.5  299.5
+  977.0    299   22.1   21.3     95  16.58    250     17  297.2  345.4  300.2
+  925.0    775   19.4   18.7     96  14.90    260     32  299.1  342.8  301.8
+  912.0    897   19.0   18.4     96  14.80    260     32  299.9  343.4  302.6
+  850.0   1504   16.8   16.7     99  14.28    255     25  303.7  346.4  306.3
+  700.0   3142    9.6    8.1     90   9.77    250     27  313.1  343.6  314.9
+  690.0   3261    9.2    7.9     92   9.78    254     27  313.9  344.6  315.8
+  687.0   3297    9.0    7.7     92   9.69    255     27  314.1  344.5  315.9
+  662.0   3599    7.0    6.0     93   8.97    265     23  315.2  343.6  316.9
+  615.0   4200    3.2    2.8     97   7.65    250     25  317.6  342.1  319.0
+  593.0   4497    1.3    1.1     99   7.06    270     21  318.7  341.5  320.0
+  578.0   4706    0.0    0.0    100   6.67    272     23  319.5  341.1  320.8
+  564.0   4902    0.2   -0.4     96   6.64    274     24  321.9  343.7  323.2
+  530.0   5397   -2.1   -2.4     98   6.08    280     28  324.9  345.2  326.1
+  510.0   5703   -3.6   -3.7     99   5.76    290     26  326.8  346.1  327.9
+  500.0   5860   -4.3   -4.3    100   5.60    290     25  327.7  346.6  328.8
+  495.0   5939   -4.7   -4.7    100   5.49                328.2  346.7  329.3
+  493.0   5971   -4.7   -4.7    100   5.51                328.6  347.2  329.7
+  492.0   5987   -4.7   -6.1     90   4.96                328.8  345.6  329.7
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WAAA
+                             Station number: 97180
+                           Observation time: 170202/0000
+                           Station latitude: -5.06
+                          Station longitude: 119.55
+                          Station elevation: 14.0
+                            Showalter index: 0.09
+                               Lifted index: 0.58
+    LIFT computed using virtual temperature: 0.63
+                                SWEAT index: 275.40
+                                    K index: 36.30
+                         Cross totals index: 21.00
+                      Vertical totals index: 21.10
+                        Totals totals index: 42.10
+      Convective Available Potential Energy: 31.52
+             CAPE using virtual temperature: 37.51
+                      Convective Inhibition: -1.18
+             CINS using virtual temperature: -0.60
+                           Equilibrum Level: 548.13
+ Equilibrum Level using virtual temperature: 545.87
+                   Level of Free Convection: 930.14
+             LFCT using virtual temperature: 937.47
+  Temp [K] of the Lifted Condensation Level: 294.32
+Pres [hPa] of the Lifted Condensation Level: 969.88
+     Mean mixed layer potential temperature: 296.92
+              Mean mixed layer mixing ratio: 16.62
+              1000 hPa to 500 hPa thickness: 5763.00
+Precipitable water [mm] for entire sounding: 59.34
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>
