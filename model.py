@@ -7,6 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 from time import time
 import numpy as np
+import joblib
 
 #setting
 dataset_file = 'dataset.npy'
@@ -89,3 +90,6 @@ end_time = time()
 svr_rmse_err = mean_squared_error(label_test, svr_prediction)
 
 print('random SVR RMSE -> %s, processing time -> %s'%(svr_rmse_err, end_time-start_time))
+
+#save the best model
+joblib.dump(random_forest, 'random_forest.pkl')
