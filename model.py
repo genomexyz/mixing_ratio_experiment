@@ -75,7 +75,7 @@ g_boost_prediction = g_boost.predict(param_test)
 end_time = time()
 g_boost_rmse_err = mean_squared_error(label_test, g_boost_prediction)
 
-print('random gradient boost RMSE -> %s, processing time -> %s'%(g_boost_rmse_err, end_time-start_time))
+print('gradient boost RMSE -> %s, processing time -> %s'%(g_boost_rmse_err, end_time-start_time))
 
 ##############################################
 
@@ -89,7 +89,7 @@ svr_prediction = svr.predict(param_test)
 end_time = time()
 svr_rmse_err = mean_squared_error(label_test, svr_prediction)
 
-print('random SVR RMSE -> %s, processing time -> %s'%(svr_rmse_err, end_time-start_time))
+print('SVR RMSE -> %s, processing time -> %s'%(svr_rmse_err, end_time-start_time))
 
 #save the best model
 joblib.dump(random_forest, 'random_forest.pkl')
